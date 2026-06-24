@@ -1,0 +1,8 @@
+b.tab.h
+b.tab.c
+lex.yy.c
+libb.a
+*.o
+*.out
+B
+test/tester

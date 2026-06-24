@@ -1,0 +1,100 @@
+[
+  {
+    "file": "src/sym.c",
+    "arguments": [
+      "/usr/bin/gcc",
+      "-I",
+      "include",
+      "-c",
+      "src/sym.c",
+      "-o",
+      "obj/sym.o"
+    ],
+    "directory": "/Users/antoine/42/B",
+    "output": "obj/sym.o"
+  },
+  {
+    "file": "src/error.c",
+    "arguments": [
+      "/usr/bin/gcc",
+      "-I",
+      "include",
+      "-c",
+      "src/error.c",
+      "-o",
+      "obj/error.o"
+    ],
+    "directory": "/Users/antoine/42/B",
+    "output": "obj/error.o"
+  },
+  {
+    "file": "src/call_stack.c",
+    "arguments": [
+      "/usr/bin/gcc",
+      "-I",
+      "include",
+      "-c",
+      "src/call_stack.c",
+      "-o",
+      "obj/call_stack.o"
+    ],
+    "directory": "/Users/antoine/42/B",
+    "output": "obj/call_stack.o"
+  },
+  {
+    "file": "src/rvalue.c",
+    "arguments": [
+      "/usr/bin/gcc",
+      "-I",
+      "include",
+      "-c",
+      "src/rvalue.c",
+      "-o",
+      "obj/rvalue.o"
+    ],
+    "directory": "/Users/antoine/42/B",
+    "output": "obj/rvalue.o"
+  },
+  {
+    "file": "src/definition.c",
+    "arguments": [
+      "/usr/bin/gcc",
+      "-I",
+      "include",
+      "-c",
+      "src/definition.c",
+      "-o",
+      "obj/definition.o"
+    ],
+    "directory": "/Users/antoine/42/B",
+    "output": "obj/definition.o"
+  },
+  {
+    "file": "src/lex.yy.c",
+    "arguments": [
+      "/usr/bin/gcc",
+      "-I",
+      "include",
+      "-c",
+      "src/lex.yy.c",
+      "-o",
+      "obj/lex.yy.o"
+    ],
+    "directory": "/Users/antoine/42/B",
+    "output": "obj/lex.yy.o"
+  },
+  {
+    "file": "src/b.tab.c",
+    "arguments": [
+      "/usr/bin/gcc",
+      "-I",
+      "include",
+      "-c",
+      "src/b.tab.c",
+      "-o",
+      "obj/b.tab.o"
+    ],
+    "directory": "/Users/antoine/42/B",
+    "output": "obj/b.tab.o"
+  }
+]
